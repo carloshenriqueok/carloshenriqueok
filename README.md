@@ -1,19 +1,17 @@
 <div align="center">
-   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=24&pause=1000&color=20B2AA&center=true&vCenter=true&width=435&lines=Hi,+i+am++Carlos+Henrique!;Welcome to+my+profile!" alt="Typing svg">
-  </a>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=20B2AA&center=true&vCenter=true&width=435&lines=Hi,+I'm+Carlos+Henrique!;Welcome+to+my+profile!" alt="Typing SVG">
 </div>
 
 #
 
 <div>
-  <img align="right" height="170px" src="./src/gif.gif">
+  <img align="right" width="350px" height="auto" src="./src/gif.gif">
 </div>
 
 <h3 align="left">Connect with me!</h3>
 <a href="https://www.linkedin.com/in/carlos0412"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF"></a> <a href="mailto:ifcarloshenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<h3>My Stacks~</h3>
+<h3>My Stacks~</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
