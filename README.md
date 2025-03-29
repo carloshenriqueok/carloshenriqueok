@@ -5,7 +5,7 @@
 #
 
 <div>
-  <img align="right" width="350px" height="auto" src="./src/gif.gif">
+  <img align="right" width="300px" height="auto" src="./src/gif.gif">
 </div>
 
 <h3 align="left">Connect with me!</h3>
