@@ -4,12 +4,14 @@
 
 #
 
-<div>
-  <img align="right" width="340px" height="auto" src="./src/gif.gif">
+<div align="center">
+  <img width="100%" height="auto" src="./src/gif.gif">
 </div>
 
+<div>
 <h3 align="left">Connect with me!</h3>
 <a href="https://www.linkedin.com/in/carlos0412"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF"></a> <a href="mailto:ifcarloshenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
 
 <h3>My Stacks~</h2>
 <div align="left">
@@ -24,21 +26,23 @@
 #
 
 <div align="center">
-
   <h3>⭐ GitHub Stats ⭐</h3>
-  <br>  
-  <table>
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloshenriqueok&line_height=25&show_icons=true&theme=dark">
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriqueok&layout=compact&theme=dark">
-      </td>
-    </tr>
-  </table>
-
+  <br>
+  <div style="display: flex; justify-content: center;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloshenriqueok&line_height=25&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriqueok&layout=compact&theme=dark">
+  </div>
 </div>
+
+#
+
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=20B2AA&center=true&vCenter=true&width=435&lines=Visit+Counter" alt="Typing SVG">
+</p>
+<p align="center">
+   <img src="https://profile-counter.glitch.me/{carloshenriqueok}/count.svg" /> 
+</p>
+
 
 #
 
