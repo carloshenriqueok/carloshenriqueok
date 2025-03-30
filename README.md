@@ -3,10 +3,9 @@
 </div>
 
 #
-
-<div align="center">
-  <img width="100%" height="auto" src="./src/gif.gif">
-</div>
+ </div>
+      <img src="https://64.media.tumblr.com/17292da4ef380464a77686dfe14a3a83/ef19ffa884fd4784-ac/s400x600/e9437e1a2f921f5b9142b121164ad8c70d620cea.gif" height="150">
+    </div>
 <br>
 
 **`Web Development Student`**
@@ -17,11 +16,12 @@
 
 <h3>My Stacks~</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue.js logo" />
   <img width="8" />
 </div>
 
