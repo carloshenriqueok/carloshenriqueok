@@ -29,8 +29,8 @@
   <h3>⭐ GitHub Stats ⭐</h3>
   <br>
   <div style="display: flex; justify-content: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloshenriqueok&line_height=25&show_icons=true&theme=dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriqueok&layout=compact&theme=dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carloshenriqueok&line_height=25&show_icons=true&theme=dark">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriqueok&layout=compact&theme=dark">
   </div>
 </div>
 
