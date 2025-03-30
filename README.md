@@ -7,7 +7,9 @@
 <div align="center">
   <img width="100%" height="auto" src="./src/gif.gif">
 </div>
+<br>
 
+**`Web Development Student`**
 <div>
 <h3 align="left">Connect with me!</h3>
 <a href="https://www.linkedin.com/in/carlos0412"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF"></a> <a href="mailto:ifcarloshenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
