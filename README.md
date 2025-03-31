@@ -4,7 +4,7 @@
 
 #
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img align= "right" src="./src/gif.gif" alt="GIF" height="260">
+  <img align= "right" src="./src/gif.gif" alt="GIF" height="240">
   <h3><code>Web Development Student</code></h3>
 </div>
 
