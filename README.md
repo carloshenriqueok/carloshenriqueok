@@ -3,26 +3,21 @@
 </div>
 
 #
- </div>
-      <img src="https://64.media.tumblr.com/17292da4ef380464a77686dfe14a3a83/ef19ffa884fd4784-ac/s400x600/e9437e1a2f921f5b9142b121164ad8c70d620cea.gif" height="150">
-    </div>
-<br>
-
-**`Web Development Student`**
-<div>
-<h3 align="left">Connect with me!</h3>
-<a href="https://www.linkedin.com/in/carlos0412"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF"></a> <a href="mailto:ifcarloshenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img align= "right" src="./src/gif.gif" alt="GIF" height="260">
+  <h3><code>Web Development Student</code></h3>
 </div>
 
-<h3>My Stacks~</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue.js logo" />
-  <img width="8" />
+<h3 align="left">🌐 Connect with me!</h3>
+<a href="https://www.linkedin.com/in/carlos0412" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn"></a>
+<a href="mailto:ifcarloshenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+
+<h3>🚀 My Stacks</h3>
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js logo">
 </div>
 
 #
